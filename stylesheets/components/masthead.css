@@ -1,0 +1,40 @@
+.masthead {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.masthead__menu-and-search {
+
+}
+
+.masthead__menu {
+    font-size: 11px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.masthead__menu:hover {
+    color: #f7f7f5;
+}
+
+.masthead__actions {
+
+}
+
+.masthead__technologies {
+
+}
+
+.masthead__date {
+
+}
+
+.masthead__logo {
+
+}
+
+.masthead__paper {
+
+}
